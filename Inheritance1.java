@@ -73,10 +73,7 @@ public class Inheritance1{
     st.setPhone("8767211056");
     st.setAdhar("8516 5728 3397");
 
-    System.out.println(st.getName());
-    System.out.println(st.getAge());
-    System.out.println(st.getPhone());
-    System.out.println(st.getAdhar());
+ 
     
     }
 
